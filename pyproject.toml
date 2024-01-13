@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "workshop parte 2 - duckdb - dbt"
+version = "0.1.0"
+description = "Workshop 3 - parte 2 - Luciano galvão"
+authors = ["keitaro"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
