@@ -1,9 +1,9 @@
 Para instalar esse projeto
 
-"""bash
+```bash
 git clone https://github.com/keitarods/WorkshopLG_3_duckdb_dbt.git
 cd WorkshopLG_3_duckdb_dbt
-"""
+```
 
 ```bash
 pyenv install 3.11.3
